@@ -6,7 +6,8 @@ The result is a fast, secure, and resilient website that automatically deploys a
 ## Application Home Page
 ![home](public/home.png)
 
-### Project 1 : `https://github.com/Debjyoti2004/CI-CD-Pipeline-with-GitHub-Actions-Docker`
+### Project 1 : 
+`https://github.com/Debjyoti2004/CI-CD-Pipeline-with-GitHub-Actions-Docker`
 
 
 ## Core Technologies
